@@ -32,7 +32,8 @@ Microsoft Teams 是近年來在商務上知名的產品。越來越多公司廢�
 
 
 * 點選建立後，會出現下方URL欄位，copy此url。
-![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1628349395343/rXy69eV8Qk.png)
+
+![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1628516642928/LCESEP5Mg.png)
 
 恭喜你! 以上就已經完成Teams的基本設置。接下來我們要透過Teams複製的URL到Gitlab的專案中進行設定。
 
